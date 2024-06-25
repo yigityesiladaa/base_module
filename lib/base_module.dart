@@ -1,0 +1,10 @@
+export 'package:base_module/core/base/base_class.dart';
+export 'package:base_module/core/base/base_controller.dart';
+export 'package:base_module/core/base/base_get_view.dart';
+export 'package:base_module/core/base/base_getx_controller.dart';
+export 'package:base_module/core/base/base_getx_service.dart';
+export 'package:base_module/core/base/base_stateless_widget.dart';
+export 'package:base_module/core/data/data_state.dart';
+export 'package:base_module/core/models/enums/enums.dart';
+export 'package:base_module/core/services/cache_service.dart';
+export 'package:base_module/getx_manager.dart';
