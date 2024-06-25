@@ -8,3 +8,6 @@ export 'package:base_module/core/data/data_state.dart';
 export 'package:base_module/core/models/enums/enums.dart';
 export 'package:base_module/core/services/cache_service.dart';
 export 'package:base_module/getx_manager.dart';
+export 'package:base_module/core/utils/size_config.dart';
+export 'package:base_module/core/utils/scale_factor_text.dart';
+export 'package:base_module/core/utils/scale_factor_auto_size_text.dart';
