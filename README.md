@@ -1,11 +1,5 @@
 # base_module
 
-A new Flutter module project.
+This module is a working module that I actively use in my Flutter projects and where I transfer my base files. With this module, I aimed to prevent code repetition in my projects, minimize the time I would lose when making changes to the same codes in more than one project, and facilitate exception handling, and I have succeeded.
 
-## Getting Started
 
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
